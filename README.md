@@ -1,27 +1,29 @@
 # EmploymentPortfolio
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.0.
+A professional portfolio built with Angular 18 to showcase skills, experience, and qualifications for job opportunities. It features a responsive and dynamic UI using Bootstrap 5, Ng-bootstrap, MDBootstrap, Boxicons, Ngx-countup, Ngx-lightbox, Swiper, and AOS.
 
-## Development server
+## Tech stack
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+-Angular 18 – Frontend framework for building dynamic web applications
+-Bootstrap 5 – Responsive design and styling
+-Ng-bootstrap – Bootstrap components for Angular
+-MDBootstrap – Material Design Bootstrap for enhanced UI components
+-Boxicons – Scalable vector icons for UI elements
+-Ngx-countup – Animated number counter for statistics
+-Ngx-lightbox – Image preview and gallery functionality
+-Swiper – Touch-enabled sliders and carousels
+-AOS (Animate On Scroll) – Smooth scrolling animations
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Setup Instructions
+ # Clone the repository to your local machine.
+Run `git clone https://github.com/CeereMugambi/employment-portfolio.git` to generate to clone the repo.
+Run `cd employment-portfolio` to navigate to the project directory.
 
-## Build
+# Install dependencies:
+Run `npm install` to install the project dependencies.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+# Start the development server:
+Run `ng serve` to start the development server.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
